@@ -1,0 +1,44 @@
+{
+ "route": "/rachat-d-epaves-essonne",
+ "source": "rachat-d-epaves-essonne.html",
+ "title": "Rachat d'épaves en Essonne | PIÈCES AUTO DULIN",
+ "description": "Vous êtes à la recherche d'un garage spécialisé dans le rachat d'épaves en Essonne ? Faites appel PIÈCES AUTO DULIN, nous sommes des spécialistes en la mati",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-38",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Rachat d'épaves Essonne",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-38\">\n\t<div class=\"row\">\n\t\t<h1>Rachat d'épaves en Essonne</h1>\n\t\t\t\t<p>Créée en 2002 et proposant la vente de pièces détachées d’occasion pour automobiles, notre entreprise <strong>PIÈCES AUTO DULIN</strong> est aussi une casse accessible à tous les particuliers. Nousvous proposons ainsi <strong>le rachat d’épaves</strong> aux conducteurs souhaitant faire enlever leur véhicule accidenté ou hors d’usage <strong>en Essonne</strong>.</p>\n<h2>Vous souhaitez vendre la carcasse de votre véhicule à l’abandon <strong>en Essonne</strong> ? Nous vous suggérons donc de prendre contact avec nous pour que nous reprenions votre voiture au meilleur prix.</h2>\n<p>Si vous envisagez de changer de véhicule et de vous débarrasser d’un modèle considéré comme non apte à la circulation, la législation impose certaines conditions. En tant qu’épaviste agréé, nous rachetons votre modèle non réparable au tarif le plus juste. Vous êtes ainsi assuré de tirer profit d’une automobile qui n’est plus en état de rouler.</p>\n<h3>Bénéficiez des services de qualité de PIÈCES AUTO DULIN en nous contactant au {{TELEPHONE}}</h3>\n<p>Une fois que nous avons procédé au <strong>rachat de l’épave</strong>, nous nous chargeons nous-mêmes de récupérer toutes les pièces réutilisables sur la carcasse, et procédons ensuite à la <a href=\"/destruction-vehicule-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>destruction</strong></a> du reste de la voiture. Cela nous permet notamment de mettre à votre disposition de nombreuses pièces détachées de toutes marques <strong>en Essonne</strong>.</p>\n<h4>Plus de 15 années de prestations de grande qualité</h4>\n<p>Nous vous proposons également de venir remorquer votre véhicule hors d’usage si vous n’avez plus la possibilité de le déplacer vous-même. Pour en savoir plus, appelez-nous au <em>{{TELEPHONE}}</em>, ou écrivez-nous via le formulaire de contact en ligne ci-dessous. Nous sommes basés au <em>25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100)</em>.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

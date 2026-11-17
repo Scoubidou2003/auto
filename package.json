@@ -9,7 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "html-react-parser": "^6.1.10",
     "next": "16.4.6",
+    "nodemailer": "^10.6.0",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },

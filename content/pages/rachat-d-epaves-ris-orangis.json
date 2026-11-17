@@ -1,0 +1,44 @@
+{
+ "route": "/rachat-d-epaves-ris-orangis",
+ "source": "rachat-d-epaves-ris-orangis.html",
+ "title": "Rachat d'épaves près de Ris-Orangis | PIÈCES AUTO DULIN",
+ "description": "GARAGE PIÈCES AUTO DULIN, votre prestataire près de Ris-Orangis, est le spécialiste à contacter pour le rachat d’épaves de voiture.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-66",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Rachat d'épaves Ris-Orangis",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-66\">\n\t<div class=\"row\">\n\t\t<h1>Rachat d'épaves près de Ris-Orangis</h1>\n\t\t\t\t<p>Le <strong>rachat d’épaves près de Ris-Orangis</strong> fait partie des prestations de PIÈCES AUTO DULIN depuis sa création en 2000. Cette opération consiste à vendre un véhicule hors d’usage à un centre agréé pour une démolition et récupération en fonction de l’état du véhicule.</p>\n<h2>Vous désirez vous débarrasser de votre vieille voiture ? Prenez contact avec nos épavistes <strong>près de</strong> Ris-Orangis</h2>\n<p>Une vieille voiture entraîne d’énormes dépenses liées à sa réparation et au remplacement de plusieurs pièces défectueuses. Vous courez aussi le risque de passer une contre-visite lors d’un contrôle technique. Épargnez-vous de telles tracasseries en sollicitant les services de notre <strong>expert en mécanique automobile</strong>. Nous vous proposons de racheter votre véhicule afin de vous aider à gagner de l’argent.</p>\n<h2>Contactez les professionnels de PIÈCES AUTO DULIN en composant le {{TELEPHONE}}</h2>\n<p>Le<strong> rachat d’épaves près de Ris-Orangis</strong> est notre affaire. Nos professionnels transportent votre véhicule dans notre centre agréé afin de l’évaluer. S’il est possible de le restaurer, nous le faisons avant de le revendre. Par contre, s’il est trop endommagé, nous récupérons les pièces réutilisables. Nous rachetons également des véhicules accidentés, en fin de vie, en panne, avec ou sans contrôle technique.</p>\n<h2>Nos spécialistes de la mécanique auto à votre service depuis 20 ans</h2>\n<p>PIÈCES AUTO DULIN, situé au 25 Avenue 8 Mai 1945, à CORBEIL ESSONNES (91100), rachète toutes les voitures anciennes. Envie d’en savoir plus sur nos activités telles que le <a href=\"/remorquage-epaves-essonne\" target=\"_blank\" rel=\"noopener\"><strong>remorquage d’épaves</strong></a> ? Veuillez joindre le {{TELEPHONE}} ou remplir le formulaire de contact ci-joint.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

@@ -1,0 +1,60 @@
+{
+ "route": "/",
+ "source": "index.html",
+ "title": "GARAGE PIÈCES AUTO DULIN : Casse auto et Pièces détachées auto dans l'Essonne",
+ "description": "PIÈCES AUTO DULIN : Garage professionnel en pièces détachées auto et destruction véhicule ,nous proposons aussi un centre VHU agrée et casse auto dans l'Essonne",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-page body-page-1",
+ "template": "page",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "CENTRE VHU AGREE - PR 9100012D",
+  "sousTitre": "VENTE PIECES DETACHEES D'OCCASION ET RACHAT D'EPAVES"
+ },
+ "activeMenu": "/",
+ "corpsHtml": "<article class=\"page clear node-1\">\n\t\t\t\t<h1 class=\"sans-image\">\n\t\t\tQui sommes-nous ?\t\t\t\t\t\t<span class=\"titre-secondaire\">Pièces auto dulin      {{TELEPHONE}}</span>\n\t\t\t\t\t</h1>\n\t\t<div class=\"page-contenu clear\">\n\t\t\t Depuis le début des années 2000, notre garage PIÈCES AUTO DULIN vous accueille et se déplace dans l’Essonne (91) pour vos besoins en pièces détachées auto, ou de remorquage et de rachat d’épaves. Centre VHU agréé par le gouvernement (Véhicules Hors d’Usage), vous pouvez aussi faire appel à notre professionnalisme pour une assistance voiture comme pour une destruction de véhicule.\nVotre partenaire confiance pour les pièces automobiles\nVous êtes à la recherche ...\t\t</div>\n\t\t<div class=\"suite\">\n\t\t\t<a href=\"/pieces-detachees-auto-seine-et-marne-2\" class=\"bouton-principal hvr-shutter-out-horizontal\">Lire la suite</a>\n\t\t</div>\n\t</article>\n\t<div class=\"row recup-photos retrait\">\n\t\t  <div class=\"col-md-4 col-sm-4 col-xs-4\">\n\t\t\t<div class=\"propor\">\n\t\t\t\t<div class=\"propor-cont\">\n\t\t\t\t\t<a class=\"imagecont\" title=\"Galerie_14\" href=\"/images/galerie/large/118c3a20beea47df95cc7f6edee460cd.webp\" data-lightbox=\"photos-accueil\">\n\t\t\t\t\t\t<span class=\"imagefond cover transition\" style=\"background-image:url(/images/galerie/medium/118c3a20beea47df95cc7f6edee460cd.webp)\"></span>\n\t\t\t\t\t\t<span class=\"masque\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t  </div>\n\t  \t  <div class=\"col-md-4 col-sm-4 col-xs-4\">\n\t\t\t<div class=\"propor\">\n\t\t\t\t<div class=\"propor-cont\">\n\t\t\t\t\t<a class=\"imagecont\" title=\"Galerie_1\" href=\"/images/galerie/large/8261abf0ec00cfd93b79ba78d8667039.webp\" data-lightbox=\"photos-accueil\">\n\t\t\t\t\t\t<span class=\"imagefond cover transition\" style=\"background-image:url(/images/galerie/medium/8261abf0ec00cfd93b79ba78d8667039.webp)\"></span>\n\t\t\t\t\t\t<span class=\"masque\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t  </div>\n\t  \t  <div class=\"col-md-4 col-sm-4 col-xs-4\">\n\t\t\t<div class=\"propor\">\n\t\t\t\t<div class=\"propor-cont\">\n\t\t\t\t\t<a class=\"imagecont\" title=\"Galerie_16\" href=\"/images/galerie/large/03e3835a442e6724e52277a286b30691.webp\" data-lightbox=\"photos-accueil\">\n\t\t\t\t\t\t<span class=\"imagefond cover transition\" style=\"background-image:url(/images/galerie/medium/03e3835a442e6724e52277a286b30691.webp)\"></span>\n\t\t\t\t\t\t<span class=\"masque\"></span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t  </div>\n\t  \t</div>",
+ "homePhotos": [
+  {
+   "title": "Galerie_14",
+   "large": "/images/galerie/large/118c3a20beea47df95cc7f6edee460cd.webp",
+   "medium": "/images/galerie/medium/118c3a20beea47df95cc7f6edee460cd.webp"
+  },
+  {
+   "title": "Galerie_1",
+   "large": "/images/galerie/large/8261abf0ec00cfd93b79ba78d8667039.webp",
+   "medium": "/images/galerie/medium/8261abf0ec00cfd93b79ba78d8667039.webp"
+  },
+  {
+   "title": "Galerie_16",
+   "large": "/images/galerie/large/03e3835a442e6724e52277a286b30691.webp",
+   "medium": "/images/galerie/medium/03e3835a442e6724e52277a286b30691.webp"
+  }
+ ],
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/large/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": true
+}

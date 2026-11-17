@@ -1,0 +1,44 @@
+{
+ "route": "/destruction-vehicule-seine-et-marne",
+ "source": "destruction-vehicule-seine-et-marne.html",
+ "title": "Destruction véhicule près de Seine-et-Marne | PIÈCES AUTO DULIN",
+ "description": "Vous êtes à la recherche d'un garage spécialisé dans la destruction véhicule près de Seine-et-Marne ? Faites appel au GARAGE PIÈCES AUTO DULIN !",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-51",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Destruction véhicule Seine-et-Marne",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-51\">\n\t<div class=\"row\">\n\t\t<h1>Destruction véhicule près de Seine-et-Marne</h1>\n\t\t\t\t<p>Notre garage <strong>PIÈCES AUTO DULIN</strong> a vu le jour en 2002 <strong>près de&nbsp;Seine-et-Marne</strong>. En tant que <strong>centre VHU agréé</strong>, nous répondons à vos besoins de destruction de véhicule en reprenant vos épaves et vos voitures non roulantes de toutes marques.</p>\n<h2>Vous voulez détruire votre automobile hors d’usage dont vous ne savez plus quoi faire près de Seine-et-Marne ? Prenez contact avec nous pour que nous la récupérions rapidement et au meilleur prix.</h2>\n<p>Vous avez tout intérêt à nous confier votre épave, cela contribuant tout d’abord à une démarche environnementale car les éléments réutilisables sont notamment remis à la vente parmi notre stock de <strong>pièces détachées</strong>. Nous rachetons en plus l’ensemble de la carcasse au tarif le plus juste pour que l’opération soit pleinement bénéfique pour vous.</p>\n<h3>Pour faire le point avec notre équipe de PIÈCES AUTO DULIN, appelez-nous au {{TELEPHONE}}</h3>\n<p>Si vous n’avez aucun moyen de déplacer la voiture, nous avons même la possibilité de venir la remorquer pour la ramener directement à notre <strong>casse auto près de Seine-et-Marne</strong>. Vous n’aurez donc rien à faire puisque nous prendrons en charge l’intégralité de l’opération, des formalités de cession de l’épave à la destruction du véhicule.</p>\n<h4>Vous pouvez avoir entière confiance en notre équipe de professionnels</h4>\n<p>Nous répondons également à vos besoins en pièces auto ou en <a href=\"/assistance-voiture-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>assistance</strong></a> dépannage. Pour en savoir plus, vous pouvez nous écrire via le formulaire de contact en ligne ci-dessous, ou nous appeler au <em>{{TELEPHONE}}</em>. Pour nous rencontrer, rendez-vous au <em>25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100)</em>.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

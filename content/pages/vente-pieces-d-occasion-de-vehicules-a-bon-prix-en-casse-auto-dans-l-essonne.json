@@ -1,0 +1,44 @@
+{
+ "route": "/vente-pieces-d-occasion-de-vehicules-a-bon-prix-en-casse-auto-dans-l-essonne",
+ "source": "vente-pieces-d-occasion-de-vehicules-a-bon-prix-en-casse-auto-dans-l-essonne.html",
+ "title": "Vente pièces d'occasion de véhicules à bon prix en casse auto dans l'Essonne",
+ "description": "GARAGE PIÈCES AUTO DULIN vous propose la vente de pièces d’occasion de véhicules à bon prix en casse auto dans l’Essonne",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-235",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Vente pièces d'occasion de véhicules à bon prix en casse auto dans l'Essonne",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-235\">\n\t<div class=\"row\">\n\t\t<h1>Vente pièces d'occasion de véhicules à bon prix en casse auto dans l'Essonne</h1>\n\t\t\t\t<p>Vous cherchez des pièces de voiture de qualité pour éviter de devoir réparer trop souvent votre automobile ? Vous disposez d’un budget serré qui ne suffira pas pour vous procurer de nouvelles pièces ? Faites appel à PIÈCES AUTO DULIN, il peut répondre à vos préoccupations. Vous trouverez des pièces rares dans notre magasin de <strong>vente de pièces d’occasion de véhicules à bon prix en casse auto dans l’Essonne</strong>.</p>\n<h2>Dans quelle casse auto acheter des pièces d’occasion de véhicules ?</h2>\n<p>Vous voulez optimiser la durée de vie de votre véhicule ? Vous aimeriez rendre votre voiture plus performante sans dépenser une fortune ? N’hésitez pas à faire confiance à un établissement professionnel comme le nôtre. Nous proposons la <strong>vente de pièces d’occasion de véhicules à bon prix en casse auto dans l’Essonne</strong>. Nos garagistes prennent soin des éléments recyclables de la voiture depuis son démontage. Les pièces sont ensuite dépolluées pour être à nouveau réutilisable.</p>\n<h2>PIÈCES AUTO DULIN pour trouver des pièces automobiles de bonne qualité</h2>\n<p>Nous sommes habitués des véhicules et connaissons toutes les pièces adaptées aux différents modèles et marques. Nous vous faisons gagner du temps dans votre quête de pièces de rechange. Nous vous faisons profiter des avantages de se confier à un garage agréé&nbsp;:</p>\n<ul>\n<li>Une grande disponibilité de pièces</li>\n<li>Une rapidité dans toutes les interventions</li>\n<li>Un traitement convenable pour le respect de l’environnement</li>\n</ul>\n<p>Notre magasin de <strong>distribution de pièces auto de seconde main</strong> vous donne l’opportunité de trouver des pièces en bon état pour réparer votre voiture.</p>\n<h3>Contactez nous, nous proposons la vente de pièces d’occasion de véhicules à bon prix en casse auto dans l’Essonne</h3>\n<p>Basé au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100), PIÈCES AUTO DULIN propose aussi la <a href=\"/vente-pieces-d-occasion-pour-les-particuliers-et-les-professionnels-en-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>vente de pièces d'occasion pour les particuliers et les professionnels</strong></a>. Pour recevoir plus de détails sur le service, n’hésitez pas à appeler au {{TELEPHONE}} ou à compléter ce formulaire de contact.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

@@ -1,0 +1,44 @@
+{
+ "route": "/piece-detachee-voiture-occasion-seine-et-marne",
+ "source": "piece-detachee-voiture-occasion-seine-et-marne.html",
+ "title": "Pièce détachée voiture occasion près de Seine-et-Marne | PIÈCES AUTO DULIN",
+ "description": "Si vous avez besoin de pièces détachées de voiture d’occasion près de Seine-et-Marne, prenez contact avec le GARAGE PIÈCES AUTO DULIN",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-141",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Pièce détachée voiture occasion Seine-et-Marne",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-141\">\n\t<div class=\"row\">\n\t\t<h1>Pièce détachée voiture occasion près de Seine-et-Marne</h1>\n\t\t\t\t<p>PIÈCES AUTO DULIN compte parmi ses prestations la commercialisation des <strong>pièces détachées de voiture d’occasion près de Seine-et-Marne</strong>. Depuis sa mise sur pied en l’an&nbsp;2000, ses professionnels aident les particuliers et les professionnels à obtenir des éléments de rechange de bonnes qualités.</p>\n<h2>Besoin de pièces détachées ? Rendez-vous dans notre atelier de réparation automobile près de<strong>&nbsp;Seine-et-Marne</strong></h2>\n<p>Opter pour des éléments mécaniques de seconde main permet de réaliser des économies sur les frais de réparation. En plus d’être moins coûteux, ils sont faciles à trouver. Dans votre <strong>atelier de réparation automobile près de Seine-et-Marne</strong>, nous en mettons de bonnes qualités à votre disposition, quelle que soit la marque de votre véhicule.</p>\n<h3>N’hésitez pas à joindre PIÈCES AUTO DULIN en composant le {{TELEPHONE}}</h3>\n<p>Votre professionnel vous propose des <strong>pièces détachées de voiture d’occasion près de Seine-et-Marne</strong>. Elles proviennent des véhicules hors d’usage encore en bon état de fonctionnement sur notre site. En fonction de la panne de votre véhicule, vous pouvez opter pour des rotules de direction, des bras de suspension, le câble de frein, le radiateur, le thermostat, etc.</p>\n<h4>Depuis 20 ans, notre garage automobile est à votre service</h4>\n<p>Chez PIÈCES AUTO DULIN, situé au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100), vous trouvez <strong>des pièces de seconde maison</strong> pour votre auto. Vous pouvez aussi bénéficier d’une <a href=\"/prime-a-la-casse-voiture-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>prime à la casse de voiture</strong></a>. Il vous suffit d’appeler le {{TELEPHONE}} ou de remplir le formulaire en bas de page.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

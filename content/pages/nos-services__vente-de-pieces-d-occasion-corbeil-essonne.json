@@ -1,0 +1,23 @@
+{
+ "route": "/nos-services/vente-de-pieces-d-occasion-corbeil-essonne",
+ "source": "nos-services/vente-de-pieces-d-occasion-corbeil-essonne.html",
+ "title": "Vente de pièces d'occasion à Corbeil Essonne - PIÈCES AUTO DULIN",
+ "description": "Vendeur de pièces détachées auto à Corbeil Essonne, nos techniciens sont à même de vous conseiller dans le choix de l'élément qui permettra de réparer véhicule.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-service body-service-31",
+ "template": "service",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Nos services",
+  "sousTitre": null
+ },
+ "activeMenu": "/nos-services",
+ "corpsHtml": "<div class=\"gallery clear services\">\n\t\t<h1 class=\"h1\">Vente de pièces d'occasion</h1>\n\t\t<div class=\"row description-galerie clear\">\n\t<p><strong>PIÈCES AUTO DULIN</strong> met à votre disposition une large sélection de <strong>pièces détachées automobiles</strong>, toutes marques et modèles confondus. Que vous viviez en Seine-et-Marne, dans le Val-de-Marne ou dans l’Essonne, nous vous invitons à vous rendre dans notre garage pour y trouver l’élément mécanique ou de carrosserie dont vous avez besoin. Coque de rétroviseur, pare-chocs ou durite, vous avez toutes les chances de dénicher un moyen de remplacer la pièce manquante ou endommagée de votre <strong>automobile</strong> au meilleur prix.</p>\n<p>Nous alimentons notre casse auto grâce aux épaves que nous récupérons ou aux destructions de véhicules que nous effectuons. Leur qualité est bien sûr strictement contrôlée par notre équipe avant de les mettre à la vente, pour que votre satisfaction soit pleinement garantie. Pour savoir si nous avons en stock l’élément que vous recherchez, vous pouvez nous joindrepar téléphone au <em>{{TELEPHONE}}</em>, ou nous adresser votre demande via le formulaire de contact en ligne ci-dessous.</p>\t</div>\n    \t\t<div class=\"row ligne-photos retrait centerservice\">\n\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12 col-xs-12 nopad\">\n\t\t\t\t\t<div class=\"propor\">\n\t\t\t\t\t\t<figure class=\"propor-cont\">\n\t\t\t\t\t\t\t<a class=\"imagecont noflicker\" title=\"ce3c330f8761ca8fab5efa3428983e74\" href=\"/images/services/large/ce3c330f8761ca8fab5efa3428983e74.webp\" data-lightbox=\"gallery-image-31\">\n\t\t\t\t\t\t\t\t\t<img src=\"/images/services/medium/ce3c330f8761ca8fab5efa3428983e74.webp\" alt=\"ce3c330f8761ca8fab5efa3428983e74\">\n\t\t\t\t\t\t\t<span class=\"masque transition\"></span>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t<figcaption class=\"hide\">ce3c330f8761ca8fab5efa3428983e74</figcaption>\n\t\t\t\t\t\t</figure>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div><div data-photos=\"service\"></div>\n\t<div class=\"btn-service\">\n\t\t<a href=\"/nos-services\" class=\"bouton-principal hvr-shutter-out-horizontal\"><span class=\"glyphicon glyphicon-chevron-left\"></span>Retour</a>\n</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": false,
+  "realisations": null,
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": true
+}

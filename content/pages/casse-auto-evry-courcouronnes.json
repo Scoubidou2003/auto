@@ -1,0 +1,44 @@
+{
+ "route": "/casse-auto-evry-courcouronnes",
+ "source": "casse-auto-evry-courcouronnes.html",
+ "title": "Casse auto près de Évry-Courcouronnes | PIÈCES AUTO DULIN",
+ "description": "Vous êtes la recherche d’un expert en casse-auto près de Évry-Courcouronnes ? Faites appel aux professionnels du GARAGE PIÈCES AUTO DULIN",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-99",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Casse auto Évry-Courcouronnes",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-99\">\n\t<div class=\"row\">\n\t\t<h1>Casse auto près de Évry-Courcouronnes</h1>\n\t\t\t\t<p>Vous avez décidé le cœur lourd d’envoyer votre voiture dans un centre VHU ? Prenez rendez-vous avec PIÈCES AUTO DULIN, le spécialiste de la <strong>casse-auto près de Évry-Courcouronnes</strong>. Depuis le début des années&nbsp;2000, nous vous débarrassons de votre épave dans le respect des règles de l’art.</p>\n<h2>Votre voiture tombe en panne régulièrement malgré les multiples réparations ? Rendez-vous dans notre centre VHU <strong>près de</strong> <strong>Évry-Courcouronnes</strong></h2>\n<p>Lorsqu’un véhicule est déclaré hors d'usage, vous devez le conduire dans les plus brefs délais vers un <strong>centre de démolition agréé près de Évry-Courcouronnes</strong>. C’est le lieu idéal pour lui donner une seconde vie. Notre équipe se charge de dépolluer et de démonter votre carcasse afin de récupérer les pièces détachées réutilisables.</p>\n<h3>L’équipe de PIÈCES AUTO DULIN vous répond au {{TELEPHONE}}</h3>\n<p>Dans notre atelier de <strong>casse-auto près de Évry-Courcouronnes</strong>, nous recyclons et valorisons votre véhicule. Nous démantelons les parties de votre auto encore en bon état comme les rétroviseurs, les phares, le moteur et les revendons. Les pneus, quant à eux, sont soit recyclés dans la composition des aires de jeux, soit valorisés comme source d’énergie ou réutilisés comme meubles.</p>\n<h3>Des démolisseurs agréés à votre service depuis près de 20 ans</h3>\n<p>PIÈCES AUTO DULIN est un centre de démolition automobile agréé situé au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100). Si vous avez aussi besoin d’une <a href=\"/assistance-voiture-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>assistance de voiture</strong></a>, nous sommes disponibles au {{TELEPHONE}} ou remplissez le formulaire de contact en bas de page.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

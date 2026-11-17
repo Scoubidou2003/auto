@@ -1,0 +1,44 @@
+{
+ "route": "/pieces-auto-ris-orangis",
+ "source": "pieces-auto-ris-orangis.html",
+ "title": "Pièces auto près de Ris-Orangis | PIÈCES AUTO DULIN",
+ "description": "Si vous avez besoin de pièces auto, adressez-vous aux professionnels du GARAGE PIÈCES AUTO DULIN, votre prestataire près de Ris-Orangis.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-60",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Pièces auto Ris-Orangis",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-60\">\n\t<div class=\"row\">\n\t\t<h1>Pièces auto près de Ris-Orangis</h1>\n\t\t\t\t<p>Chez PIÈCES AUTO DULIN, nous vous proposons des<strong> pièces auto</strong> <strong>près de&nbsp;Ris-Orangis</strong> pour la réparation de votre voiture. La société, créée au début des années&nbsp;2000, a pour mission principale de proposer des accessoires automobiles de seconde main de bonne qualité.</p>\n<h2>Vous désirez réduire les frais de réparation de votre véhicule <strong>près de</strong> Ris-Orangis ? Optez pour des éléments mécaniques de seconde main</h2>\n<p>L’adage «&nbsp;mieux vaut prévenir que guérir&nbsp;» trouve tout son sens dans le domaine de l’automobile. Vous devez respecter les dates mentionnées dans le carnet d’entretien de votre voiture afin de minimiser tout risque de panne. Si malgré toutes vos précautions une panne survient, il est judicieux de vous rendre dans notre <strong>atelier de réparation automobile à Ris-Orangis</strong>. Nous utilisons des pièces de seconde main de bonne qualité afin de vous faire économiser.</p>\n<h3>Sollicitez les services professionnels de PIÈCES AUTO DULIN au {{TELEPHONE}}</h3>\n<p>Quelles que soient les caractéristiques de votre engin, vous allez trouver des <strong>pièces auto</strong> <strong>près de</strong><strong>&nbsp;Ris-Orangis</strong> adaptées telles que des éléments de carrosserie ou des chaînes de neige. Nous vous proposons des accessoires automobiles de différents équipementiers que nous pouvons monter directement sur votre véhicule. Nos accessoires ont un bon rapport qualité-prix.</p>\n<h4>Vous profitez du savoir-faire de nos garagistes depuis 20 ans</h4>\n<p>Situé au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100), PIÈCES AUTO DULIN propose des accessoires automobiles de seconde main et le <a href=\"/rachat-d-epaves-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>rachat d’épaves</strong></a>. Pour obtenir un devis ou un rendez-vous, n’hésitez pas à composer le {{TELEPHONE}} ou à remplir le formulaire de contact ci-joint.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

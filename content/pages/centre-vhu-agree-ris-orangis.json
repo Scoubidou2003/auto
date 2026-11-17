@@ -1,0 +1,44 @@
+{
+ "route": "/centre-vhu-agree-ris-orangis",
+ "source": "centre-vhu-agree-ris-orangis.html",
+ "title": "Centre VHU agrée près de Ris-Orangis | PIÈCES AUTO DULIN",
+ "description": "GARAGE PIÈCES AUTO DULIN, votre centre VHU agréé près de Ris-Orangis, prend en charge tous les véhicules accidentés ou en fin de vie.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-84",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Centre VHU agrée Ris-Orangis",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-84\">\n\t<div class=\"row\">\n\t\t<h1>Centre VHU agrée près de Ris-Orangis</h1>\n\t\t\t\t<p>Se rendre dans un <strong>centre VHU agréé près de Ris-Orangis</strong> tel que PIÈCES AUTO DULIN est impératif lorsqu’on désire se débarrasser d’une épave automobile. Depuis l’an&nbsp;2000, nos experts en VHU (Véhicules Hors d’Usage) prennent en charge les déchets toxiques provenant de votre voiture.</p>\n<h2>Suite à un accident grave, votre voiture est-elle inutilisable ? Faites appel à notre démolisseur habilité <strong>près de</strong> Ris-Orangis pour s’en occuper</h2>\n<p>Chaque année, des millions de véhicules sont considérés comme des épaves et entraînent des montagnes de déchets toxiques. Il est nécessaire d’amener son véhicule en fin de vie dans un <strong>centre de démolition agréé près de Ris-Orangis</strong> tel que le nôtre. L’expérience acquise au fil des ans nous permet de prendre en charge votre engin dans le respect de l’environnement.</p>\n<h3>L’équipe de PIÈCES AUTO DULIN vous répond au {{TELEPHONE}}</h3>\n<p>Nous sommes un <strong>centre VHU agréé près de Ris-Orangis</strong> et avons une chaîne de nettoyage et de recyclage respectueuse de l’environnement. Votre voiture contient de nombreux polluants dans certains de ses éléments tels que les différents liquides, le pot catalytique, la batterie. Ces déchets toxiques sont séparés des véhicules et pris en charge par nos experts en dépollution.</p>\n<h3>Nos professionnels sont à vos côtés depuis 20 ans</h3>\n<p>PIÈCES AUTO DULIN, situé au 25 Avenue 8 Mai 1945 CORBEIL ESSONNES (91100), s’occupe des véhicules en fin de vie. Vous désirez en savoir plus sur nos services tels que la <a href=\"/destruction-vehicule-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>destruction de véhicule</strong></a> ? Composez dès maintenant le {{TELEPHONE}} ou remplissez le formulaire de contact ci-dessous.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

@@ -1,0 +1,291 @@
+{
+ "name": "PIÈCES AUTO DULIN",
+ "legalName": "GARAGE PIÈCES AUTO DULIN",
+ "logo": "/themes/themefd5380/images/logo.webp",
+ "address": {
+  "street": "25 Avenue 8 Mai 1945",
+  "zip": "91100",
+  "city": "CORBEIL ESSONNES"
+ },
+ "googleReviews": {
+  "note": "4.4",
+  "width": "88%",
+  "url": "https://maps.google.com/maps?cid=14338474407009952709"
+ },
+ "mainMenu": [
+  {
+   "label": "Accueil",
+   "href": "/"
+  },
+  {
+   "label": "Qui sommes-nous ?",
+   "href": "/pieces-detachees-auto-seine-et-marne-2"
+  },
+  {
+   "label": "Nos services",
+   "href": "/nos-services"
+  },
+  {
+   "label": "Notre galerie photo",
+   "href": "/pieces-automobiles-d-occasion-corbeil-essonne"
+  },
+  {
+   "label": "Contact",
+   "href": "/contact-remorquage-epaves-94"
+  }
+ ],
+ "footerMenu": [
+  {
+   "label": "Accueil",
+   "href": "/"
+  },
+  {
+   "label": "Qui sommes-nous ?",
+   "href": "/pieces-detachees-auto-seine-et-marne-2"
+  },
+  {
+   "label": "Notre galerie photo",
+   "href": "/pieces-automobiles-d-occasion-corbeil-essonne"
+  },
+  {
+   "label": "Contact",
+   "href": "/contact-remorquage-epaves-94"
+  },
+  {
+   "label": "Mentions légales",
+   "href": "/mentions-legales"
+  },
+  {
+   "label": "Politique de confidentialité",
+   "href": "/politique-de-confidentialite"
+  },
+  {
+   "label": "Plan du site",
+   "href": "/plan-du-site"
+  }
+ ],
+ "seoMenu": [
+  {
+   "label": "Enlèvement d'épaves Val-de-Marne",
+   "href": "/enlevement-d-epaves-val-de-marne"
+  },
+  {
+   "label": "Rachat de véhicules hors d'usage Hauts-de-Seine",
+   "href": "/rachat-de-vehicules-hors-d-usage-hauts-de-seine"
+  },
+  {
+   "label": "Enlèvement et rachat épaves Seine-Saint-Denis 93",
+   "href": "/enlevement-et-rachat-epaves-seine-saint-denis-93"
+  },
+  {
+   "label": "Enlèvement épaves et VHU Rueil-Malmaison Hauts-de-Seine",
+   "href": "/enlevement-epaves-et-vhu-rueil-malmaison-hauts-de-seine"
+  },
+  {
+   "label": "Destruction administrative d’un véhicule hors d’usage à Courbevoie",
+   "href": "/destruction-administrative-d-un-vehicule-hors-d-usage-a-courbevoie"
+  },
+  {
+   "label": "Remorquage d’une épave vers un centre VHU à Boulogne-Billancourt",
+   "href": "/remorquage-d-une-epave-vers-un-centre-vhu-a-boulogne-billancourt"
+  },
+  {
+   "label": "Récupération d’un véhicule non roulant par un centre VHU agréé à Bobigny",
+   "href": "/recuperation-d-un-vehicule-non-roulant-par-un-centre-vhu-agree-a-bobigny"
+  },
+  {
+   "label": "Enlèvement rapide d’une épave automobile à Champigny-sur-Marne",
+   "href": "/enlevement-rapide-d-une-epave-automobile-a-champigny-sur-marne"
+  },
+  {
+   "label": "Rachat et estimation d’un véhicule hors d’usage à Rueil-Malmaison",
+   "href": "/rachat-et-estimation-d-un-vehicule-hors-d-usage-a-rueil-malmaison"
+  },
+  {
+   "label": "Enlèvement d’épave Montreuil",
+   "href": "/enlevement-d-epave-montreuil"
+  },
+  {
+   "label": "Récupération véhicule accidenté Saint-Denis",
+   "href": "/recuperation-vehicule-accidente-saint-denis"
+  },
+  {
+   "label": "Rachat d’épave Levallois-Perret",
+   "href": "/rachat-d-epave-levallois-perret"
+  },
+  {
+   "label": "Enlèvement d’épave Courbevoie",
+   "href": "/enlevement-d-epave-courbevoie"
+  },
+  {
+   "label": "Épaviste Boulogne-Billancourt",
+   "href": "/epaviste-boulogne-billancourt"
+  },
+  {
+   "label": "Enlèvement d’une épave accidentée à Neuilly-sur-Seine par un centre VHU agréé",
+   "href": "/enlevement-d-une-epave-accidentee-a-neuilly-sur-seine-par-un-centre-vhu-agree"
+  },
+  {
+   "label": "Destruction et dépollution d’un véhicule non roulant à Rueil-Malmaison",
+   "href": "/destruction-et-depollution-d-un-vehicule-non-roulant-a-rueil-malmaison"
+  },
+  {
+   "label": "Rachat et récupération d’un véhicule hors d’usage à Saint-Cloud",
+   "href": "/rachat-et-recuperation-d-un-vehicule-hors-d-usage-a-saint-cloud"
+  },
+  {
+   "label": "Remorquage épave Vitry-sur-Seine",
+   "href": "/remorquage-epave-vitry-sur-seine"
+  },
+  {
+   "label": "Enlèvement épave Créteil",
+   "href": "/enlevement-epave-creteil"
+  },
+  {
+   "label": "Épaviste Saint-Cloud",
+   "href": "/epaviste-saint-cloud"
+  },
+  {
+   "label": "Epaviste Neuilly-sur-Seine",
+   "href": "/epaviste-neuilly-sur-seine"
+  },
+  {
+   "label": "Epaviste Ruei-Malmaison",
+   "href": "/epaviste-ruei-malmaison"
+  },
+  {
+   "label": "Enlèvement d'épave Neuilly-sur-Seine",
+   "href": "/enlevement-d-epave-neuilly-sur-seine"
+  },
+  {
+   "label": "Enlèvement d'épaves Hauts-de-Seine",
+   "href": "/enlevement-d-epaves-hauts-de-seine-297"
+  },
+  {
+   "label": "Enlèvement d'épaves Rueil-Malmaison",
+   "href": "/enlevement-d-epaves-rueil-malmaison"
+  },
+  {
+   "label": "Prime à la conversion Hauts-de-Seine",
+   "href": "/prime-a-la-conversion-hauts-de-seine"
+  },
+  {
+   "label": "Prime à la conversion Évry-Courcouronnes",
+   "href": "/prime-a-la-conversion-evry-courcouronnes"
+  },
+  {
+   "label": "Prime à la conversion Ris-Orangis",
+   "href": "/prime-a-la-conversion-ris-orangis"
+  },
+  {
+   "label": "Prime à la conversion 94",
+   "href": "/prime-a-la-conversion-94"
+  },
+  {
+   "label": "Prime à la conversion Seine-et-Marne",
+   "href": "/prime-a-la-conversion-seine-et-marne"
+  },
+  {
+   "label": "Prime à la conversion Essonne",
+   "href": "/prime-a-la-conversion-essonne"
+  },
+  {
+   "label": "Prime à la casse voiture 94",
+   "href": "/prime-a-la-casse-voiture-94"
+  },
+  {
+   "label": "Remorquage épave rapide pour destruction et dépollution dans l'Essonne",
+   "href": "/remorquage-epave-rapide-pour-destruction-et-depollution-dans-l-essonne"
+  },
+  {
+   "label": "Remorquage épave pour vous débarrasser de votre véhicule hors d'usage (VHU) dans l'Essonne",
+   "href": "/remorquage-epave-pour-vous-debarrasser-de-votre-vehicule-hors-d-usage-vhu-dans-l-essonne"
+  },
+  {
+   "label": "Remorquage épave et rachat de pièces détachées par un centre VHU dans le Val-de-Marne",
+   "href": "/remorquage-epave-et-rachat-de-pieces-detachees-par-un-centre-vhu-dans-le-val-de-marne"
+  },
+  {
+   "label": "Vente pièces détachées de carrosserie pour tous modèles de véhicules dans le Val-de-Marne",
+   "href": "/vente-pieces-detachees-de-carrosserie-pour-tous-modeles-de-vehicules-dans-le-val-de-marne"
+  },
+  {
+   "label": "Vente pièces détachées d'occasion au meilleur prix pour toutes marques de véhicules dans le Val-de-Marne",
+   "href": "/vente-pieces-detachees-d-occasion-au-meilleur-prix-pour-toutes-marques-de-vehicules-dans-le-val-de-marne"
+  },
+  {
+   "label": "Vente pièces d'occasion pour éléments de rechange de véhicules dans le Val-de-Marne",
+   "href": "/vente-pieces-d-occasion-pour-elements-de-rechange-de-vehicules-dans-le-val-de-marne"
+  },
+  {
+   "label": "Remorquage épave destruction et dépollution de véhicules dans le Val-de-Marne",
+   "href": "/remorquage-epave-destruction-et-depollution-de-vehicules-dans-le-val-de-marne"
+  },
+  {
+   "label": "Rachat d'épaves non réparables ou accidentés par une casse auto dans le Val-de-Marne",
+   "href": "/rachat-d-epaves-non-reparables-ou-accidentes-par-une-casse-auto-dans-le-val-de-marne"
+  },
+  {
+   "label": "Rachat d'épaves de véhicules accidentés ou hors d'usage (VHU) dans le Val-de-Marne",
+   "href": "/rachat-d-epaves-de-vehicules-accidentes-ou-hors-d-usage-vhu-dans-le-val-de-marne"
+  },
+  {
+   "label": "Destruction de véhicules par des professionnels en casse auto en Seine-et-Marne",
+   "href": "/destruction-de-vehicules-par-des-professionnels-en-casse-auto-en-seine-et-marne"
+  },
+  {
+   "label": "Destruction de véhicules et possibilité de remorquage en casse auto dans le Val-de-Marne",
+   "href": "/destruction-de-vehicules-et-possibilite-de-remorquage-en-casse-auto-dans-le-val-de-marne"
+  },
+  {
+   "label": "Centre VHU pour destruction et dépollution de votre véhicule en Seine-et-Marne",
+   "href": "/centre-vhu-pour-destruction-et-depollution-de-votre-vehicule-en-seine-et-marne"
+  },
+  {
+   "label": "Centre VHU avec chaîne de nettoyage et de recyclage en Seine-et-Marne",
+   "href": "/centre-vhu-avec-chaine-de-nettoyage-et-de-recyclage-en-seine-et-marne"
+  },
+  {
+   "label": "Vente pièces détachées mécaniques et de carrosserie de toutes marques en Seine-et-Marne",
+   "href": "/vente-pieces-detachees-mecaniques-et-de-carrosserie-de-toutes-marques-en-seine-et-marne"
+  },
+  {
+   "label": "Vente pièces détachées de toutes marques et tous modèles de véhicules en Seine-et-Marne",
+   "href": "/vente-pieces-detachees-de-toutes-marques-et-tous-modeles-de-vehicules-en-seine-et-marne"
+  },
+  {
+   "label": "Vente pièces d'occasion pour les particuliers et les professionnels en Seine-et-Marne",
+   "href": "/vente-pieces-d-occasion-pour-les-particuliers-et-les-professionnels-en-seine-et-marne"
+  },
+  {
+   "label": "Vente pièces d'occasion de véhicules à bon prix en casse auto dans l'Essonne",
+   "href": "/vente-pieces-d-occasion-de-vehicules-a-bon-prix-en-casse-auto-dans-l-essonne"
+  },
+  {
+   "label": "Vente pièces d'occasion de voiture pour remplacer pièces défectueuses dans le Val-de-Marne",
+   "href": "/vente-pieces-d-occasion-de-voiture-pour-remplacer-pieces-defectueuses-dans-le-val-de-marne"
+  },
+  {
+   "label": "Voir plus",
+   "href": "/plan-du-site"
+  }
+ ],
+ "servicesList": [
+  {
+   "label": "Vente de pièces d'occasion",
+   "href": "/nos-services#service-31"
+  },
+  {
+   "label": "Rachat d’épaves",
+   "href": "/nos-services#service-32"
+  }
+ ],
+ "servicesSlides": [
+  "/images/services/large/ce3c330f8761ca8fab5efa3428983e74.webp",
+  "/images/services/large/d4a0436630c363d68c661e6f2ffdecfc.webp"
+ ],
+ "icons": {
+  "favicon": "/themes/themefd5380/favicon.ico",
+  "remonter": "/themes/themefd5380/images/ico-remonter.webp"
+ }
+}

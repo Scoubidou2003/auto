@@ -1,0 +1,44 @@
+{
+ "route": "/prime-a-la-casse-voiture-essonne",
+ "source": "prime-a-la-casse-voiture-essonne.html",
+ "title": "Prime à la casse voiture en Essonne | PIÈCES AUTO DULIN",
+ "description": "Vous souhaitez bénéficier de la prime à la casse de voiture en Essonne, rendez-vous dans les locaux de GARAGE PIÈCES AUTO DULIN",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-153",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Prime à la casse voiture Essonne",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-153\">\n\t<div class=\"row\">\n\t\t<h1>Prime à la casse voiture en Essonne</h1>\n\t\t\t\t<p>PIÈCES AUTO DULIN est un centre de démolition automobile des VHU créé au début des années&nbsp;2000. Elle aide sa clientèle à bénéficier d’une<strong> prime à la casse de voiture en Essonne</strong>.</p>\n<h2>Vous désirez acheter un nouveau modèle automobile moins polluant ? Conduisez l’ancien dans notre centre de traitement de VHU en Essonne</h2>\n<p>La prime à la conversion est une aide financière accordée aux automobilistes désirant se débarrasser de leur ancien véhicule au profit d’un modèle plus propre. Cette mesure vise à inciter les consommateurs à privilégier des modèles plus respectueux de l’environnement. Vous devez mettre au rebut votre engin en le conduisant dans notre <strong>centre de traitement de VHU en Essonne</strong>.</p>\n<h3>Faites confiance à l’équipe de PIÈCES AUTO DULIN en appelant le {{TELEPHONE}}&nbsp;</h3>\n<p>Nous confier votre véhicule tout en optant pour un modèle plus sain est le meilleur moyen de bénéficier d’une<strong> prime à la casse de voiture en Essonne</strong>. Votre automobile doit être immatriculée sur le territoire français. Notre professionnel enlève toutes les parties pouvant encore servir avant de démolir entièrement votre auto. La carte grise est aussi détruite afin de retirer totalement ce véhicule de la circulation.</p>\n<h3>Depuis 20 ans, notre centre de démolition est à votre service</h3>\n<p>Chez PIÈCES AUTO DULIN, situé au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100), nous vous aidons à bénéficier d’une aide financière de l’État. Vous pouvez aussi y trouver des <a href=\"/pieces-auto-ris-orangis\" target=\"_blank\" rel=\"noopener\"><strong>pièces auto</strong></a>. Pour en savoir plus, appelez le {{TELEPHONE}} ou remplissez le formulaire en bas de page et vous nous donnons toutes les informations nécessaires.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

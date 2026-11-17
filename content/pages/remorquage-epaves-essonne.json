@@ -1,0 +1,44 @@
+{
+ "route": "/remorquage-epaves-essonne",
+ "source": "remorquage-epaves-essonne.html",
+ "title": "Remorquage épaves en Essonne | PIÈCES AUTO DULIN",
+ "description": "Vous êtes à la recherche d'un garage spécialisé dans le remorquage d'épaves en Essonne ? Faites appel au PIÈCES AUTO DULIN,",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-41",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Remorquage épaves Essonne",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-41\">\n\t<div class=\"row\">\n\t\t<h1>Remorquage épaves en Essonne</h1>\n\t\t\t\t<p>À la fois casse et centre de révision automobile, notre garage <strong>PIÈCES AUTO DULIN</strong> a vu le jour en 2002. Notre équipe assure différentes prestations à destination des particuliers, comme le <strong>remorquage d’épaves</strong> et la destruction des véhicules hors d’usage <strong>en Essonne</strong>.</p>\n<h2>Vous cherchez un professionnel pour venir récupérer la carcasse de votre véhicule hors d’usage <strong>en Essonne</strong> ? Faites-nous confiance pour vous en débarrasser dans les meilleurs délais et à bon prix.</h2>\n<p>Pratique et économique, notre service de récupération de voiture vous permet de vous défaire de la carcasse de votre <strong>automobile</strong> avec laquelle vous ne roulez plus à moindres frais. Si vous voulez dépenser le moins possible et tirer profit de la vente de votre ancienne voiture, vous pouvez compter sur notre professionnalisme. Nous prenons en plus en charge toutes les formalités associées.</p>\n<h3>Pour faire détruire votre véhicule hors d’usage, appelez notre garage PIÈCES AUTO DULIN au {{TELEPHONE}}</h3>\n<p>Lorsque le <strong>remorquage de votre épave</strong> a été effectué, nous faisons le nécessaire pour recycler toutes les pièces détachées utilisables afin de les mettre à disposition de nos clients <strong>en Essonne</strong>. Nous procédons ensuite à la destruction du reste de la carcasse en parfait accord avec la législation.</p>\n<h4>Votre garage partenaire pour nombre de vos besoins automobiles</h4>\n<p>Vous pouvez également retrouver nombre de <a href=\"/pieces-detachees-auto-ris-orangis\" target=\"_blank\" rel=\"noopener\"><strong>pièces détachées</strong></a> et bénéficier d’une assistance automobile rapide en nous sollicitant. Appelez-nous au <em>{{TELEPHONE}}</em> ou écrivez-nous par le biais du formulaire de contact en ligne pour demander votre devis ou poser vos questions. Nous sommes situés au <em>25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100)</em>.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

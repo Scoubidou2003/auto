@@ -1,0 +1,44 @@
+{
+ "route": "/assistance-voiture-evry-courcouronnes",
+ "source": "assistance-voiture-evry-courcouronnes.html",
+ "title": "Assistance voiture près de Évry-Courcouronnes | PIÈCES AUTO DULIN",
+ "description": "GARAGE PIÈCES AUTO DULIN, votre prestataireprès de Évry-Courcouronnes, vous propose ses services pour l’assistance de votre voiture",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-105",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Assistance voiture Évry-Courcouronnes",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-105\">\n\t<div class=\"row\">\n\t\t<h1>Assistance voiture près de Évry-Courcouronnes</h1>\n\t\t\t\t<p>Depuis sa création dans les années&nbsp;2000, PIÈCES AUTO DULIN forge sa réputation dans le domaine de l’<strong>assistance de voiture près de </strong><strong>Évry-Courcouronnes</strong>. Cette structure accompagne tous les automobilistes désireux d’accroître la durée de vie de leur engin en leur procurant des soins adaptés.</p>\n<h2>Vous voulez maintenir votre véhicule en parfait état ? Sollicitez les services de nos garagistes expérimentés <strong>près de</strong> <strong>Évry-Courcouronnes</strong></h2>\n<p>Tout véhicule à quatre roues a besoin de soins particuliers pour éviter la dégradation des éléments mécaniques importants. Il n’est pas rare de voir une rotule de direction s’user prématurément ou une courroie d’accessoire se rompre entraînant des dommages irréversibles. Votre expert assure l’<strong>entretien et la révision complète près de Évry-Courcouronnes</strong> afin de préserver la bonne santé de votre engin.</p>\n<h3>Assurez le suivi automobile chez PIÈCES AUTO DULIN en composant le {{TELEPHONE}}</h3>\n<p>L’<strong>assistance de voiture près de Évry-Courcouronnes </strong>est une tâche qui concerne la sécurité routière. Votre mécanicien met à jour votre carnet d’entretien en changeant l’huile du moteur, les filtres, les bougies, la courroie de distribution, etc. Si malgré toutes ces précautions votre voiture connaît des défaillances, nous pouvons intervenir dans les plus brefs délais.</p>\n<h3>Depuis 20 ans, nos experts vous aident à faire le bon choix</h3>\n<p>PIÈCES AUTO DULIN, situé au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100), vous accompagne dans l’entretien de vos véhicules. Nous procédons à <a href=\"/enlevement-d-epaves-94\" target=\"_blank\" rel=\"noopener\"><strong>l’enlèvement d’épaves</strong></a>. Pour obtenir plus d’informations ou un devis, vous pouvez appeler le {{TELEPHONE}} ou remplir le formulaire de contact ci-joint.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

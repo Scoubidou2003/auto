@@ -1,0 +1,44 @@
+{
+ "route": "/vente-pieces-d-occasion-pour-les-particuliers-et-les-professionnels-en-seine-et-marne",
+ "source": "vente-pieces-d-occasion-pour-les-particuliers-et-les-professionnels-en-seine-et-marne.html",
+ "title": "Vente pièces d'occasion pour les particuliers et les professionnels en Seine-et-Marne",
+ "description": "GARAGE PIÈCES AUTO DULIN met à la disposition des particuliers et des professionnels en Seine-et-Marne, une vente de pièces d’occasion",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-238",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Vente pièces d'occasion pour les particuliers et les professionnels en Seine-et-Marne",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-238\">\n\t<div class=\"row\">\n\t\t<h1>Vente pièces d'occasion pour les particuliers et les professionnels en Seine-et-Marne</h1>\n\t\t\t\t<p>Vous avez besoin de pièces de rechange pour que les voitures de votre entreprise puissent être en bon état de marche ? Vous voulez éviter une panne de vos véhicules d’entreprise qui doivent faire de longs trajets&nbsp;? Laissez PIÈCES AUTO DULIN régler vos soucis, grâce à la <strong>vente de pièces d’occasion pour les particuliers et les professionnels en Seine-et-Marne</strong>.</p>\n<h2>Dans quel magasin acheter des pièces d’occasion&nbsp;?</h2>\n<p>Vous travaillez dans le domaine du tourisme ou le service de transport&nbsp;? Vous souhaitez offrir à votre client le confort et la sécurité tout au long des trajets&nbsp;? Pour ce faire, vous devez vérifier l’état de vos véhicules de transport&nbsp;? Diagnostiquez la qualité et l’état de toutes les pièces qui les composent. Si vous remarquez des éléments en mauvais état, pensez à les remplacer immédiatement. Vous pouvez choisir un bon point de <strong>vente de pièces d’occasion pour les particuliers et les professionnels en Seine-et-Marne</strong>. La disponibilité, la qualité et le prix font les différences de nos services.</p>\n<h2>PIÈCES AUTO DULIN pour répondre aux besoins de votre véhicule</h2>\n<p>Nous vous garantissons la bonne qualité de nos pièces de rechange. Par notre professionnalisme, nous allons vous apporter un résultat fiable et durable :</p>\n<ul>\n<li>Diverses pièces mécaniques, électroniques et optiques</li>\n<li>Des carrosseries, organes et éléments amovibles</li>\n</ul>\n<p>Vous pouvez rouler tranquillement, en toute sérénité grâce aux nombreuses pièces proposées dans notre <strong>magasin de reprise de pièces auto</strong>.</p>\n<h3>Contactez notre point de vente de pièces d’occasion pour les particuliers et les professionnels en Seine-et-Marne</h3>\n<p>PIÈCES AUTO DULIN est aussi spécialisé en <a href=\"/vente-pieces-d-occasion-pour-elements-de-rechange-de-vehicules-dans-le-val-de-marne\" target=\"_blank\" rel=\"noopener\"><strong>vente pièces d'occasion pour éléments de rechange de véhicules</strong></a>. Si cela vous intéresse, contactez-le au {{TELEPHONE}} ou rendez-vous au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100). Vous pouvez aussi remplir ce formulaire de contact si vous avez des questions.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

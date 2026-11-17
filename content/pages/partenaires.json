@@ -1,0 +1,23 @@
+{
+ "route": "/partenaires",
+ "source": "partenaires.html",
+ "title": "PIÈCES AUTO DULIN - Partenaires",
+ "description": "",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-page body-page-7",
+ "template": "page",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<article class=\"page clear node-7\">\n\t\t<h1>Partenaires</h1>\n\t\t<div class=\"page-contenu clear\">\n\t\t\t<p>Site en cours d'enrichissement.</p>\t\t</div>\n\t</article>",
+ "homePhotos": null,
+ "sections": {
+  "services": false,
+  "realisations": null,
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": true
+}

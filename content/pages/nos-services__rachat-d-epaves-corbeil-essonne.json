@@ -1,0 +1,23 @@
+{
+ "route": "/nos-services/rachat-d-epaves-corbeil-essonne",
+ "source": "nos-services/rachat-d-epaves-corbeil-essonne.html",
+ "title": "Société de rachat d'épaves à Corbeil Essonne - PIÈCES AUTO DULIN",
+ "description": "Vous êtes en quête d'une société de rachat d'épaves à Corbeil Essonne ? N'hésitez pas à profiter de nos tarifs défiant toute concurrence.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-service body-service-32",
+ "template": "service",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Nos services",
+  "sousTitre": null
+ },
+ "activeMenu": "/nos-services",
+ "corpsHtml": "<div class=\"gallery clear services\">\n\t\t<h1 class=\"h1\">Rachat d’épaves</h1>\n\t\t<div class=\"row description-galerie clear\">\n\t<p>Nous répondons également présents si vous souhaitez procéder à la revente de votre épave, que le véhicule soit dans cet état à cause d’un sinistre ou simplement de son âge avancé. <strong>PIÈCES AUTO DULIN</strong> étant un centre VHU agréé (Véhicules Hors d’Usage), nous sommes même habilités à effectuer le remorquage de celle-ci si vous ne pouvez plus la déplacer. Nous disposons en effet d’un service d’assistance auto, pour venir vous dépanner au plus vite où que vous vous trouviez dans le 77, le 91 ou le 94.</p>\n<p>Pour le rachat de votre voiture délabrée, nous vous proposons le meilleur tarif possible afin que vous soyez le premier bénéficiaire de cette transaction. Vous avez également la possibilité de nous confier la destruction de votre véhicule, car nous possédons tout le matériel nécessaire dans notre <strong>casse automobile</strong>.</p>\n<p>Notre <strong>garage</strong> est basé au <em>25 Avenue du 8 Mai 1945 à Corbeil-Essonnes (91100)</em>. Si vous souhaitez nous contacter au préalable, vous pouvez composer le <em>{{TELEPHONE}}</em>, ou nous écrire par le biais du formulaire de contact en ligne.</p>\t</div>\n    \t\t<div class=\"row ligne-photos retrait centerservice\">\n\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12 col-xs-12 nopad\">\n\t\t\t\t\t<div class=\"propor\">\n\t\t\t\t\t\t<figure class=\"propor-cont\">\n\t\t\t\t\t\t\t<a class=\"imagecont noflicker\" title=\"d4a0436630c363d68c661e6f2ffdecfc\" href=\"/images/services/large/d4a0436630c363d68c661e6f2ffdecfc.webp\" data-lightbox=\"gallery-image-32\">\n\t\t\t\t\t\t\t\t\t<img src=\"/images/services/medium/d4a0436630c363d68c661e6f2ffdecfc.webp\" alt=\"d4a0436630c363d68c661e6f2ffdecfc\">\n\t\t\t\t\t\t\t<span class=\"masque transition\"></span>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t<figcaption class=\"hide\">d4a0436630c363d68c661e6f2ffdecfc</figcaption>\n\t\t\t\t\t\t</figure>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div><div data-photos=\"service\"></div>\n\t<div class=\"btn-service\">\n\t\t<a href=\"/nos-services\" class=\"bouton-principal hvr-shutter-out-horizontal\"><span class=\"glyphicon glyphicon-chevron-left\"></span>Retour</a>\n</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": false,
+  "realisations": null,
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": true
+}

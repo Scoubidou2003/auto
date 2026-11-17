@@ -1,0 +1,44 @@
+{
+ "route": "/pieces-detachees-auto-hauts-de-seine",
+ "source": "pieces-detachees-auto-hauts-de-seine.html",
+ "title": "Pièces détachées auto près de Hauts-de-Seine | PIÈCES AUTO DULIN",
+ "description": "Chez PIÈCES AUTO DULIN près de Hauts-de-Seine, profitez de la vente de pièces détachées auto garanties, offrant un positionnement discount.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-264",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Pièces détachées auto Hauts-de-Seine",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-264\">\n\t<div class=\"row\">\n\t\t<h1>Pièces détachées auto près de Hauts-de-Seine</h1>\n\t\t\t\t<p>À votre service depuis plus de 15 ans, notre garage <strong>PIÈCES AUTO DULIN</strong> met à disposition des particuliers de nombreuses <strong>pièces détachées</strong> auto au meilleur prix.Nous possédons en effet de nombreuses références issues de toutes les marques pour équiper tous types de véhicules <strong>près de Hauts-de-Seine.</strong></p>\n<h2>Vous avez besoin d’éléments mécaniques ou de carrosserie pour remplacer une partie endommagée ou manquante de votre voiture près de Hauts-de-Seine ? Vous trouverez très sûrement votre bonheur en venant nous rencontrer dans nos ateliers.</h2>\n<p>En faisant appel à nous, vous profiterez de l’expertise de spécialistes du domaine, qui pourront vous prodiguer leurs précieux conseils pour faciliter vos recherches. En fonction de votre budget et de vos attentes, nous vous orientons vers la solution la plus adaptée. L’ensemble de notre inventaire est méticuleusement contrôlé pour vous garantir la qualité de ce que vous achetez.</p>\n<h3>Contactez notre garage PIÈCES AUTO DULIN au {{TELEPHONE}} pour tout savoir de nos prestations</h3>\n<p>Au vue de tout le stock dont nous disposons et de notre expérience de l’<strong>automobile</strong>, nous sommes aussi en mesure d’effectuer les réparations dont vous pouvez éventuellement avoir besoin sur votre voiture. Nous faire confiance, c’est bénéficier des conseils et des compétences de techniciens efficaces et passionnés par leur métier.</p>\n<h4>Notre objectif est de toujours réussir à vous apporter une solution adéquate</h4>\n<p>Si vous avez un véhicule hors d’usage dont vous souhaitez vous débarrasser, nous vous proposons également de venir le remorquer et de procéder à sa <a href=\"/destruction-vehicule-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>destruction</strong></a>. Pour davantage de renseignements, vous pouvez composer le <em>{{TELEPHONE}}</em> ou utiliser le formulaire de contact en ligne. Nous vous accueillons aussi avec plaisir au <em>25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100)</em>.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

@@ -1,0 +1,44 @@
+{
+ "route": "/assistance-voiture-hauts-de-seine",
+ "source": "assistance-voiture-hauts-de-seine.html",
+ "title": "Assistance voiture près de Hauts-de-Seine | PIÈCES AUTO DULIN",
+ "description": "PIÈCES AUTO DULIN : spécialistes de l’automobile, nous assurons une assistance voiture soignée et effectuons des réparations de qualité près de Hauts-de-Seine.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-276",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Assistance voiture Hauts-de-Seine",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-276\">\n\t<div class=\"row\">\n\t\t<h1>Assistance voiture près de Hauts-de-Seine</h1>\n\t\t\t\t<p>Le garage <strong>PIÈCES AUTO DULIN</strong> est présent <strong>près de Hauts-de-Seine</strong>&nbsp;depuis plus de 15 ans. Spécialistes de l’automobile, nous assurons une <strong>assistance voiture</strong> soignée et effectuons des réparations de qualité.</p>\n<h2>Votre véhicule est immobilisé ou refuse de démarrer près de Hauts-de-Seine ? Nous vous invitons donc à solliciter nos services pour vous aider à le déplacer dans les plus brefs délais.</h2>\n<p>Vous pouvez vous adresser aux professionnels de l’automobile que nous sommes pour résoudre le problème, sans pour autant vous faire dépenser trop. Nous sommes des experts du remorquage auto et intervenons quel que soit le problème rencontré.</p>\n<h3>Faites appel au Garage PIÈCES AUTO DULIN en contactant le {{TELEPHONE}}</h3>\n<p>Nous vous offrons de nombreuses prestations grâce à notre connaissance aiguisée de l’automobile, nous permet également de prendre en charge <strong>l’assistance voiture</strong>, que vous rencontriez un souci simple ou plus complexe. Nous intervenons dans la région <strong>près de Hauts-de-Seine</strong>&nbsp;avec rigueur et rapidité. Nos techniciens peuvent travailler sur tous types de voitures, quel que soit le constructeur. Nous possédons un grand nombre de pièces détachées multimarques, ce qui vous garantit une réparation rapide.</p>\n<h4>Des professionnels du dépannage auto à votre service</h4>\n<p><strong>PIECES AUTO DULIN</strong> répond présent pour tout ce qui concerne votre voiture. Nous sommes un <a href=\"/centre-vhu-agree-94\" target=\"_blank\" rel=\"noopener\"><strong>centre VHU agréé</strong></a> et à ce titre, nous pouvons procéder au rachat d’épaves mais aussi à la destruction de véhicules. Vous pouvez en savoir plus ou prendre rendez-vous en nous contactant au <em>{{TELEPHONE}}</em>, ou via notre formulaire en ligne.Venez nous rencontrer dans notre garage situé au <em>25 Avenue 8 Mai 1945 CORBEIL ESSONNES 91100</em>.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

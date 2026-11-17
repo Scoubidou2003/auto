@@ -1,0 +1,44 @@
+{
+ "route": "/enlevement-d-epaves-hauts-de-seine",
+ "source": "enlevement-d-epaves-hauts-de-seine.html",
+ "title": "Enlèvement d'épaves près de Hauts-de-Seine | PIÈCES AUTO DULIN",
+ "description": "N'hésitez pas à confier aux techniciens auto du garage PIÈCES AUTO DULIN l'enlèvement d'épaves de voitures près de Hauts-de-Seine.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-279",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Enlèvement d'épaves Hauts-de-Seine",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-279\">\n\t<div class=\"row\">\n\t\t<h1>Enlèvement d'épaves près de Hauts-de-Seine</h1>\n\t\t\t\t<p>Depuis sa création en l’an&nbsp;2000, PIÈCES AUTO DULIN procède à l’<strong>enlèvement d’épaves près de Hauts-de-Seine</strong>. Intervenant chez des particuliers et des professionnels, nous mettons tout en œuvre pour vous offrir une prestation de qualité.</p>\n<h2>Besoin d'un enlèvement d'épave ? Faites appel à notre épaviste près de Hauts-de-Seine</h2>\n<p>Un véhicule en fin de vie contient d’énormes quantités de déchets toxiques. Le vôtre est-il dans un piteux état ? Si vous souhaitez éviter qu’ils ne se répandent dans la nature, vous devez rapidement faire appel à un <strong>centre VHU agréé près de Hauts-de-Seine</strong>&nbsp;tel que le nôtre. Nos épavistes remorquent gratuitement, selon les cas, votre véhicule dans le respect des normes environnementales.</p>\n<h3>Faites appel aux professionnels de PIÈCES AUTO DULIN en composant le {{TELEPHONE}}</h3>\n<p>Selon l’article&nbsp;R.543-154 du Code de l’environnement, tout véhicule hors d'usage doit impérativement être remis à un tiers pour destruction. Nous procédons à un <strong>enlèvement d’épaves près de Hauts-de-Seine</strong>. Notre flotte automobile comprend des semi-remorques adaptées au déplacement des épaves auto. Nous transportons gratuitement votre voiture vers notre centre VHU dès votre appel.</p>\n<h3>Nos experts en remorquage de casse auto vous accompagnent depuis près de 20 ans</h3>\n<p>PIÈCES AUTO DULIN, situé au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100), est l’expert à contacter pour le remorquage des véhicules. Si vous souhaitez en savoir plus sur le <a href=\"/depannage-voiture-essonne\" target=\"_blank\" rel=\"noopener\"><strong>dépannage de voiture</strong></a>, veuillez composer le {{TELEPHONE}} ou remplissez ce formulaire.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

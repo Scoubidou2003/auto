@@ -1,0 +1,23 @@
+{
+ "route": "/contact-remorquage-epaves-94",
+ "source": "contact-remorquage-epaves-94.html",
+ "title": "Contactez l'expert en remorquage épaves et rachat d'épaves dans le 94 - PIÈCES AUTO DULIN",
+ "description": "Découvrez le professionnel en remorquage épaves dans le 94. PIÈCES AUTO DULIN vous propose un grand choix de pièces détachées autos à des prix très compétitifs.",
+ "ogImage": "/images/bandeau/01dae7e86ee2a2ea2289a6c6e7e984ab.webp",
+ "bodyClass": "body-contact body-contact-5",
+ "template": "contact",
+ "bannerImage": "/images/bandeau/01dae7e86ee2a2ea2289a6c6e7e984ab.webp",
+ "slogan": {
+  "titre": "Contact",
+  "sousTitre": null
+ },
+ "activeMenu": "/contact-remorquage-epaves-94",
+ "corpsHtml": "<div class=\"contact node-5\">\n\t<!-- bloc tab-coordonnes -->\n\t<div class=\"tab-coordonnes\">\n\t\t<div class=\"table-row\">\n\t\t\t<div class=\"cell gauche\">\n\t\t\t\t<div class=\"map\">\n\t\t\t\t\t<iframe aria-label=\"Carte Google Maps\" src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10551.80655033223!2d2.458425!3d48.610769!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e5e7357cc24f1d%3A0x1dfbaa297f56fc04!2s25+Avenue+du+8+Mai+1945%2C+91100+Corbeil-Essonnes!5e0!3m2!1sfr!2sfr!4v1517504794347\" width=\"600\" height=\"450\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"cell droite\">\n\t\t\t\t<div class=\"contenu\">\n\t\t\t\t\t<!-- MODELE 2 -->\n\t\t\t\t\t<div class=\"coordonnees\">\n\t\t\t\t\t\t<h1>Nous joindre</h1>\n\t\t\t\t\t\t<address>\n\t\t\t\t\t\t\t<meta content=\"GARAGE PIÈCES AUTO DULIN\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"adresse\">\n\t\t\t\t\t\t\t\t<span>Adresse : </span>\n\t\t\t\t\t\t\t\t <span class=\"texte\">25 Avenue 8 Mai 1945</span><br> \t\t\t\t\t\t\t\t           <span class=\"texte\">91100</span>\t\t\t\t\t\t\t\t \t  <span class=\"texte\">CORBEIL ESSONNES</span>\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t<!-- \t\t\t\t\t\t\t<p class=\"tel tel1\" >Tél. : {{TELEPHONE}}</p>\n\t\t\t\t\t\t\t -->\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"tel tel2 callTracker\">Tél. : <span class=\"t_phone\">{{TELEPHONE}}</span><span class=\"t_affiche\" data-zone=\"Contenu\" data-page=\"contact\" data-source=\"site\">Afficher le numéro</span></p><p class=\"email\">E-mail : {{EMAIL}}</p>\n\t\t\t\t\t\t\t<!--  -->\n\t\t\t\t\t\t</address>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\t<!-- fin bloc tab-coordonnes -->\n\t<div class=\"tab-formulaire\">\n\t\t<div class=\"cell gauche\">\n\t\t\t<div class=\"contenu formulaire\">\n\t\t\t\t<h2>Formulaire de contact</h2>\n\t\t\t\t\t\t\t\t<div class=\"description-contact clear\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div>\n\t\t\t\t<div data-contact-form=\"contact\"></div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"cell droite cover hidden-sm hidden-xs\"></div>\n\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": false,
+  "realisations": null,
+  "gmbImage": "/images/bandeau/medium/01dae7e86ee2a2ea2289a6c6e7e984ab.webp"
+ },
+ "footerForm": false
+}

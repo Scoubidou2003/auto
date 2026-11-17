@@ -1,0 +1,44 @@
+{
+ "route": "/pieces-detachees-auto-ris-orangis",
+ "source": "pieces-detachees-auto-ris-orangis.html",
+ "title": "Pièces détachées auto près de Ris-Orangis | PIÈCES AUTO DULIN",
+ "description": "Vous avez besoin de pièces détachées auto pour réparer votre voiture?  Rendez-vous au GARAGE PIÈCES AUTO DULIN près de Ris-Orangis.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-78",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Pièces détachées auto Ris-Orangis",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-78\">\n\t<div class=\"row\">\n\t\t<h1>Pièces détachées auto près de Ris-Orangis</h1>\n\t\t\t\t<p>La vente de <strong>pièces détachées auto près de Ris-Orangis</strong> fait partie des services de PIÈCES AUTO DULIN. Cette société, créée en l’an&nbsp;2000, propose à sa clientèle la réduction des frais de réparation en optant pour des éléments mécaniques de seconde main.</p>\n<h2>Vous désirez remplacer des pièces usées de votre véhicule ? Rendez-vous dans notre atelier de réparation <strong>près de</strong> Ris-Orangis</h2>\n<p>Réutiliser des éléments mécaniques est un geste écologique. Ce recyclage vous permet de faire des économies lors de la réparation de votre voiture et réduit considérablement les déchets automobiles. Issus de l’économie circulaire, ces éléments sont commercialisés dans notre <strong>centre agréé de traitement des VHU </strong>(véhicules hors d’usage)<strong> près de Ris-Orangis</strong>. Ils peuvent servir dans le cadre de la réparation ou de l’entretien de votre voiture.</p>\n<h2>Faites appel aux professionnels de PIÈCES AUTO DULIN en composant le {{TELEPHONE}}</h2>\n<p>Depuis janvier 2017, les garagistes ont l’obligation de proposer des <strong>pièces</strong> <strong>détachées auto près de Ris-Orangis</strong> à leurs clients. Soucieux de respecter cette obligation légale, nous vous proposons différentes parties du moteur comme l’embrayage, la culasse, les filtres (à air, à carburant), les verres de phares ou de feu, etc. Si le besoin s’impose, nous pouvons remplacer ladite pièce dans le respect des normes techniques prescrites par les équipementiers.</p>\n<h2>Depuis 20 ans, nous exerçons dans le domaine de l’automobile</h2>\n<p>Lors de la réparation de votre voiture, PIÈCES AUTO DULIN, au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100), vous propose des pièces d’occasion. Si vous désirez vous rendre dans notre <a href=\"/centre-vhu-agree-94\" target=\"_blank\" rel=\"noopener\"><strong>centre VHU agréé</strong></a>, veuillez joindre le {{TELEPHONE}} ou remplissez ce formulaire.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

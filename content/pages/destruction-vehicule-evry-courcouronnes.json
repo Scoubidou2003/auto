@@ -1,0 +1,44 @@
+{
+ "route": "/destruction-vehicule-evry-courcouronnes",
+ "source": "destruction-vehicule-evry-courcouronnes.html",
+ "title": "Destruction véhicule près de Évry-Courcouronnes | PIÈCES AUTO DULIN",
+ "description": "Faites confiance aux professionnels du GARAGE PIÈCES AUTO DULIN pour effectuer la destruction de véhicule près de Évry-Courcouronnes.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-93",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Destruction véhicule Évry-Courcouronnes",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-93\">\n\t<div class=\"row\">\n\t\t<h1>Destruction véhicule près de Évry-Courcouronnes</h1>\n\t\t\t\t<p>Depuis sa création dans les années&nbsp;2000, PIÈCES AUTO DULIN compte parmi ses prestations la <strong>destruction de véhicule près de Évry-Courcouronnes</strong>. Cette opération consiste à enlever de la circulation tout véhicule déclaré comme «&nbsp;épave&nbsp;».</p>\n<h2>Vous avez besoin des professionnels pour détruire votre voiture ? Contactez notre centre de démolition <strong>près de</strong> <strong>Évry-Courcouronnes</strong></h2>\n<p>Une voiture peut être déclarée hors d’usage à la suite d’un accident ou d’une grave panne. Dans ce cas, elle doit être automatiquement détruite. Toute personne ne respectant pas cette obligation légale s’expose à une amende et à une sanction pénale pouvant aller jusqu’à deux ans d’emprisonnement. Évitez un tel risque en contactant nos <strong>démolisseurs d’épaves agréés près de Évry-Courcouronnes</strong>. Nous disposons de toutes les compétences requises pour vous débarrasser de votre voiture.</p>\n<h3>Faites confiance à PIÈCES AUTO DULIN au {{TELEPHONE}}</h3>\n<p>L’épave d’une voiture peut vite devenir un abri pour les rongeurs, les insectes et nécessiter l’intervention de notre expert en <strong>destruction de véhicule près de </strong><strong>Évry-Courcouronnes</strong>. Notre professionnel remorque gratuitement votre voiture vers le centre de démolition si elle a des pièces essentielles comme le moteur. Dans le cas contraire, vous devez supporter les frais de remorquage jusqu’au centre de démolition. Nos professionnels disposent de tout le savoir-faire nécessaire pour effectuer ce travail dans les meilleures conditions.</p>\n<h3>Profitez de notre savoir-faire acquis depuis 20 ans</h3>\n<p>PIÈCES AUTO DULIN, situé au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100), est le prestataire de <a href=\"/casse-auto-94\" target=\"_blank\" rel=\"noopener\"><strong>casse-auto</strong></a>&nbsp;à contacter pour la démolition d’une voiture. Pour obtenir un devis, n’hésitez pas à composer le {{TELEPHONE}} ou à remplir le formulaire de contact ci-joint.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

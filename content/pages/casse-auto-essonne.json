@@ -1,0 +1,44 @@
+{
+ "route": "/casse-auto-essonne",
+ "source": "casse-auto-essonne.html",
+ "title": "Casse auto en Essonne | PIÈCES AUTO DULIN",
+ "description": "Vous êtes à la recherche d'une Casse auto en Essonne ? Faites appel à la grande expertise du GARAGE PIÈCES AUTO DULIN !",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-53",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Casse auto Essonne",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-53\">\n\t<div class=\"row\">\n\t\t<h1>Casse auto en Essonne</h1>\n\t\t\t\t<p>Centre Véhicule Hors d’Usage agréé depuis plus de 15 ans <strong>en Essonne</strong>, notre garage <strong>PIÈCES AUTO DULIN</strong> fait également figure de <strong>casse auto</strong>. Nous rachetons vos épaves ou voitures non roulantes et procédons à la récupération des pièces détachées et de toutes les matières premières.</p>\n<h2>Vous recherchez une casse automobile <strong>en Essonne</strong> pour y laisser votre véhicule ? Nous vous invitons donc à prendre contact avec notre équipe pour que nous vous communiquions l’ensemble de nos prestations.</h2>\n<p>En laissant votre véhicule dans notre centre, vous pourrez tout d’abord en tirer un bénéfice puisque nous vous en offrons toujours le prix le plus juste. Cela contribue également à une démarche environnementale puisque l’ensemble de la carcasse est recyclée. Si vous n’avez aucun moyen de le déplacer par vous-même, nous vous proposons même de venir le chercher pour le remorquer.</p>\n<h3>Pour joindre PIÈCES AUTO DULIN, composez le {{TELEPHONE}} et posez-nous toutes vos questions</h3>\n<p>Vous pouvez aussi nous rendre visite si vous êtes en quête de pièces détachées pour remplacer un élément endommagé ou manquant sur votre voiture <strong>en Essonne</strong>. Nous avons ainsi des éléments mécaniques ou de carrosserie de toutes marques à des tarifs avantageux, ce qui vous permet de réparer votre automobile facilement et à moindre coût.</p>\n<h4>Votre interlocuteur de confiance depuis 2002</h4>\n<p>Vous pouvez également compter sur nous si vous avez besoin de réparations ou d’une <a href=\"/assistance-voiture-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>assistance</strong></a>. Pour cela, appelez-nous au <em>{{TELEPHONE}}</em> ou écrivez-nous par le biais du formulaire de contact en ligne ci-dessous. Nous sommes basés au <em>25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100)</em>.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

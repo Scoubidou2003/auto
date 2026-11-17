@@ -1,0 +1,44 @@
+{
+ "route": "/centre-vhu-agree-hauts-de-seine",
+ "source": "centre-vhu-agree-hauts-de-seine.html",
+ "title": "Centre VHU agrée près de Hauts-de-Seine | PIÈCES AUTO DULIN",
+ "description": "Notre garage PIÈCES AUTO DULIN a été fondé il y a plus de 20 ans près de Hauts-de-Seine, et dispose de la certification centre VHU agréé.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-267",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Centre VHU agrée Hauts-de-Seine",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-267\">\n\t<div class=\"row\">\n\t\t<h1>Centre VHU agrée près de Hauts-de-Seine</h1>\n\t\t\t\t<p>Notre garage <strong>PIÈCES AUTO DULIN</strong> a été fondé il y a plus de 15 ans près de Hauts-de-Seine, et dispose de la certification <strong>centre VHU agréé</strong>. Nous sommes donc habilités à prendre en charge vos véhicules non roulants, que ce soit pour en récupérer les pièces détachées ou pour une destruction simple.</p>\n<h2>Vous souhaitez tirer profit de votre voiture hors d’usage près de Hauts-de-Seine ? Contactez-nous pour obtenir votre devis gratuit et faire le point sur l’ensemble de nos prestations.</h2>\n<p>Que votre automobile soit accidentée et non réparable, déclarée inapte à la circulation ou simplement laissée à l’abandon, nous vous proposons de la récupérer afin que nous puissions en extraire le maximum de pièces. Cela a un double avantage pour vous, puisque vous vous débarrassez de votre épave et qu’elle vous permet même de gagner de l’argent en la recyclant.</p>\n<h3>Appelez PIÈCES AUTO DULIN au {{TELEPHONE}} pour vous séparer de votre voiture non roulante</h3>\n<p>La reprise de votre véhicule hors d’usage est également bénéfique pour notre <strong>centre VHU agréé</strong>, puisque nous pouvons ainsi agrémenter notre stock d’éléments mécaniques et de carrosserie. Pour vous faciliter la démarche, nous vous proposons même de venir remorquer votre épave <strong>près de Hauts-de-Seine</strong>.</p>\n<h4>Votre casse auto référence depuis 2002</h4>\n<p>Vous pouvez également nous solliciter si vous avez besoin d’une <a href=\"/assistance-voiture-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>assistance</strong></a> ou d’un dépannage. Pour faire le point sur l’ensemble de nos services, appelez-nous au <em>{{TELEPHONE}}</em>, ou écrivez-nous grâce au formulaire de contact en ligne ci-dessous. Nous sommes établis au <em>25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100)</em>.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

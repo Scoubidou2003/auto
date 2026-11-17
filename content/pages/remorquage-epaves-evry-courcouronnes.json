@@ -1,0 +1,44 @@
+{
+ "route": "/remorquage-epaves-evry-courcouronnes",
+ "source": "remorquage-epaves-evry-courcouronnes.html",
+ "title": "Remorquage épaves près de Évry-Courcouronnes | PIÈCES AUTO DULIN",
+ "description": "N’hésitez pas à solliciter les services des professionnels de GARAGE PIÈCES AUTO DULIN pour effectuer le remorquage d’épaves près de Évry-Courcouronnes.",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-75",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Remorquage épaves Évry-Courcouronnes",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-75\">\n\t<div class=\"row\">\n\t\t<h1>Remorquage épaves près de Évry-Courcouronnes</h1>\n\t\t\t\t<p>Depuis sa création dans les années&nbsp;2000, PIÈCES AUTO DULIN propose ses services de <strong>remorquage d’épaves près de Évry-Courcouronnes</strong> aux particuliers et aux professionnels. Nous mettons notre expertise acquise au fil des ans à votre service pour vous débarrasser de votre vieille voiture dans de bonnes conditions.</p>\n<h2>Vous désirez éviter les ennuis en vous débarrassant de votre vieille voiture ? Faites appel à notre mécanicien expérimenté <strong>près de</strong> <strong>Évry-Courcouronnes</strong></h2>\n<p>Une voiture endommagée peut être classée comme «&nbsp;épave&nbsp;» lorsqu’elle représente une perte totale pour son propriétaire. Dans ce cas, il a l’obligation d’enlever son véhicule de la voie publique ou privée sous peine de sanctions. Il vous suffit de faire appel à nos <strong>experts en enlèvement de vieilles voitures près de Ris-Orangis</strong> pour cela.&nbsp; Nous intervenons dans les plus brefs délais.</p>\n<h2>Faites appel aux professionnels de PIÈCES AUTO DULIN en composant le {{TELEPHONE}}</h2>\n<p>Nous disposons de véhicules spécialement conçus pour le <strong>remorquage d’épaves près de Évry-Courcouronnes</strong>. Notre équipe de professionnels ne laisse aucun déchet sur place lors de l’enlèvement de votre véhicule à fort potentiel toxique. Si votre voiture est «&nbsp;économiquement irréparable&nbsp;», nous vous proposons de la racheter afin de retirer les pièces importantes.</p>\n<h2>Nos experts en enlèvement auto vous accompagnent depuis 20 ans</h2>\n<p>PIÈCES AUTO DULIN, localisé au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100), est l’expert à contacter pour remorquer votre véhicule. Nous sommes aussi spécialisés dans la vente de <a href=\"/pieces-detachees-auto-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>pièces détachées auto</strong></a>. Pour en savoir plus, composez le {{TELEPHONE}} ou remplissez le formulaire de contact ci-dessous.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

@@ -1,0 +1,44 @@
+{
+ "route": "/depannage-voiture-seine-et-marne",
+ "source": "depannage-voiture-seine-et-marne.html",
+ "title": "Dépannage Voiture près de Seine-et-Marne | PIÈCES AUTO DULIN",
+ "description": "Le GARAGE PIÈCES AUTO DULIN est le professionnel à contacter pour effectuer le dépannage de votre voiture près de Seine-et-Marne",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-126",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Dépannage Voiture Seine-et-Marne",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-126\">\n\t<div class=\"row\">\n\t\t<h1>Dépannage Voiture près de Seine-et-Marne</h1>\n\t\t\t\t<p>PIÈCES AUTO DULIN voit le jour au début des années&nbsp;2000. Spécialisés dans le <strong>dépannage de voiture près de</strong><strong>&nbsp;Seine-et-Marne</strong>, nos professionnels mettent leur savoir-faire à profit pour redonner vie à votre véhicule en panne.</p>\n<h2>Vous avez du mal à faire démarrer votre véhicule près de<strong>&nbsp;Seine-et-Marne</strong> ? Sollicitez l’intervention de notre mécanicien expérimenté</h2>\n<p>Le cauchemar de tout conducteur est de voir tomber son véhicule en panne. Cela arrive souvent lorsqu’on s’y attend le moins et bouleverse entièrement votre quotidien. L’intervention d’un <strong>mécanicien spécialisé en Seine-et-Marne</strong> est nécessaire pour déterminer avec exactitude l’origine de la panne. Le professionnel effectue ensuite toutes les actions correctrices nécessaires pour réparer la pièce défectueuse.</p>\n<h2>Faites appel à PIÈCES AUTO DULIN en composant le {{TELEPHONE}}</h2>\n<p>Le professionnel mis à votre disposition est spécialisé dans le <strong>dépannage de voiture près de Seine-et-Marne</strong>. Un diagnostic électronique de votre auto révèle l’origine de la défaillance et permet de prendre les mesures adéquates. Elle peut provenir du moteur, des pneumatiques, du système de direction ou de freinage, etc. Quelle que soit l’origine, le technicien corrige rapidement ces problèmes afin de vous faire retrouver le confort de votre engin.</p>\n<h2>Nos spécialistes de la mécanique auto vous accompagnent depuis 20 ans</h2>\n<p>Situé au 25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100), PIÈCES AUTO DULIN effectue la réparation automobile des véhicules. Envie d’en savoir plus sur nos activités telles que la vente de <a href=\"/piece-detachee-voiture-occasion-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>pièces détachées de voiture d’occasion</strong></a> ? Veuillez joindre le {{TELEPHONE}} ou remplir le formulaire de contact ci-joint.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}

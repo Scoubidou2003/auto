@@ -1,0 +1,74 @@
+/* Ajustements propres à la version Next.js (le reste du style est celui du site d'origine). */
+
+/* Remplace la barre de défilement jQuery « mCustomScrollbar » du pied de page */
+.scrollbars { overflow-y: auto; scrollbar-width: thin; scrollbar-color: #fbe102 transparent; }
+
+/* Photos ajoutées sur les pages SEO et les fiches services */
+.pageseo .photos-seo { margin: 30px 0 0 0; }
+.services .photos-service, .gallery .photos-service { margin-top: 15px; }
+
+/* Visionneuse photo : images responsives */
+.lightbox .lb-image { max-width: none; }
+
+/* Copyright à la place du logo de l'ancien hébergeur */
+.copyright-footer { font-size: 12px; opacity: .7; }
+
+/* Boutons de partage en haut de page (affichés en JS sur le site d'origine) */
+.sur-banniere .infos .btn-partage { display: inline-flex !important; }
+
+/* Numéro WhatsApp et e-mails cités dans le contenu */
+.corps a.lien-whatsapp, .corps a.lien-email { color: inherit; text-decoration: none; border-bottom: 1px dotted currentColor; white-space: nowrap; }
+.corps a.lien-whatsapp:hover, .corps a.lien-email:hover { color: #fbe102; }
+.lien-whatsapp .fa-whatsapp { color: #25d366; margin-right: .3em; }
+.pied address .email a, .coordonnees .email a { color: inherit; }
+.coordonnees .email { margin-top: 10px; }
+
+/* « Afficher le numéro » : numéro WhatsApp */
+.callTracker a.t_phone { color: inherit; text-decoration: none; }
+.tel-whatsapp .fa-whatsapp { color: #25d366; font-size: 1.15em; vertical-align: -1px; }
+.mention-whatsapp { font-size: 12px; font-style: italic; opacity: .8; margin-top: -4px; }
+
+/* Icônes rondes : Facebook, TikTok, WhatsApp (même forme que les boutons d'origine) */
+.reseaux-sociaux { display: flex; flex-wrap: wrap; gap: 6px; }
+.sur-banniere .infos .btn-partage.reseaux-sociaux { display: flex !important; }
+.btn-rs-rond {
+  display: inline-flex !important; align-items: center; justify-content: center;
+  width: 44px; height: 44px; border-radius: 44px; border: 3px solid #fff;
+  color: #fff !important; font-size: 19px; text-decoration: none !important; transition: all 400ms ease;
+  box-sizing: border-box; padding: 0 !important; margin: 0 !important; line-height: 1 !important; float: none !important;
+}
+.btn-rs-rond .fa-brands { line-height: 1; margin: 0; }
+.btn-rs-rond.rs-facebook:hover { background: #1877f2; border-color: #1877f2; }
+.btn-rs-rond.rs-tiktok:hover { background: #000; border-color: #000; }
+.btn-rs-rond.rs-whatsapp:hover { background: #25d366; border-color: #25d366; }
+.reseaux-footer { margin-top: 12px; }
+.reseaux-footer .btn-rs-rond { width: 38px; height: 38px; font-size: 16px; border-width: 2px; }
+.menu-mobile-rs.reseaux-sociaux { justify-content: center; padding: 15px 0; }
+
+/* Menus mobiles : entrées WhatsApp et TikTok (icônes Font Awesome) */
+.nav-item.whatsapp-nav, .nav-item.tiktok-nav { position: relative; display: block; }
+.nav-item.whatsapp-nav .fa-brands, .nav-item.tiktok-nav .fa-brands {
+  position: absolute; left: 20px; top: 50%; transform: translateY(-50%); font-size: 20px; width: 20px; text-align: center;
+}
+.nav-item.whatsapp-nav .fa-whatsapp { color: #25d366; }
+.tiktok-bottom { display: block; height: 50px; margin-top: -25px; padding-top: 31px; font-size: 16px; }
+
+/* Bouton flottant « Acheter une pièce » : l'achat se fait uniquement via WhatsApp */
+.btn-whatsapp-achat {
+  position: fixed; left: 20px; bottom: 20px; z-index: 9990;
+  display: inline-flex; align-items: center; gap: 12px;
+  padding: 9px 22px 9px 10px; border-radius: 40px;
+  background: #25d366; color: #fff !important; text-decoration: none !important;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, .35); transition: transform .2s, box-shadow .2s, background .2s;
+}
+.btn-whatsapp-achat:hover, .btn-whatsapp-achat:focus { background: #1ebe5b; transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0, 0, 0, .45); }
+.btn-whatsapp-achat .fa-whatsapp { font-size: 34px; line-height: 1; }
+.btn-whatsapp-texte { display: flex; flex-direction: column; line-height: 1.2; }
+.btn-whatsapp-titre { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; font-weight: 600; }
+.btn-whatsapp-numero { font-size: 17px; font-weight: 700; white-space: nowrap; }
+.btn-whatsapp-mention { font-size: 10px; opacity: .9; }
+@media (max-width: 767px) {
+  .btn-whatsapp-achat { left: 12px; bottom: 12px; padding: 6px 14px 6px 8px; gap: 8px; }
+  .btn-whatsapp-achat .fa-whatsapp { font-size: 28px; }
+  .btn-whatsapp-numero { font-size: 15px; }
+}

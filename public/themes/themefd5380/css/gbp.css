@@ -1,0 +1,32 @@
+.bloc-GMB{
+	background: no-repeat center center /cover;
+  	background-attachment: scroll;
+  	background-attachment: fixed;
+	padding:4em 10%;
+	text-align: center;
+	position: relative;
+	z-index:8000;
+	color: var(--color0);
+	display:block;
+}
+.bloc-GMB .contain-GMB .etoiles-2{display:block;position:absolute;top:0;left:0;height:100%;background:url('/themes/themefd5380/images/etoiles-2.webp') no-repeat center left;}
+.bloc-GMB .contain-GMB .zone-etoiles-note{position:relative;height:60px;width:264px;float:right;background:url('/themes/themefd5380/images/etoiles-1.webp') no-repeat center right;}
+.bloc-GMB:before{content:'';position:absolute;left:0;top:0;width:100%;height:100%;background: #000;opacity:0.75;z-index:-1;}
+.bloc-GMB.bg-optionnel:after{content:'';position:absolute;left:0;top:0;width:100%;height:100%; background: url('/themes/themefd5380/images/bg-optionel-gris.svg') repeat top center;background-size:60px auto;opacity:0.5;z-index:-1;}
+.bloc-GMB .h1{
+	color: var(--color0);
+}
+.note-avis{position:relative;display:flex;justify-content:center;align-items:center;margin:0 0 2rem;}
+.nbr-note{font-size:40px;margin-right:4rem;}
+.btnp.btn-gmb svg.icones {
+    height: 41px;
+    width: 21px;
+    fill: #fff;
+    position: relative;
+    left: -8px;
+    top: -2px;
+}
+
+.tete .btn-partage .btnp:hover svg.icones {
+    fill: #fff;
+}

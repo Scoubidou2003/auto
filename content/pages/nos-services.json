@@ -1,0 +1,23 @@
+{
+ "route": "/nos-services",
+ "source": "nos-services.html",
+ "title": "Vente de pièces d'occasion à Corbeil Essonne - PIÈCES AUTO DULIN :",
+ "description": "PIÈCES AUTO DULIN : Notre équipe vous propose des pièces auto de qualité ainsi qu'un service clientèle à votre écoute à Corbeil Essonne.",
+ "ogImage": "/images/bandeau/b794df4fb28c34330f026864e71a9d75.webp",
+ "bodyClass": "body-service-list body-service-list-0",
+ "template": "service-list",
+ "bannerImage": "/images/bandeau/b794df4fb28c34330f026864e71a9d75.webp",
+ "slogan": {
+  "titre": "Nos services",
+  "sousTitre": null
+ },
+ "activeMenu": "/nos-services",
+ "corpsHtml": "<div class=\"page clear services\">\n    <div class=\"prestation\" id=\"service-31\">\n            <div class=\"cell photo cover\" style=\"background-image: url(/images/services/large/ce3c330f8761ca8fab5efa3428983e74.webp)\"></div>\n    <div class=\"cell texte\">\n      <div class=\"contenu\">\n                <h2 class=\"h1\">Vente de pièces d'occasion</h2>\n                       <p>PIÈCES AUTO DULIN met à votre disposition une large sélection de pièces détachées automobiles, toutes marques et modèles confondus.</p>\n\t\t<a href=\"/nos-services/vente-de-pieces-d-occasion-corbeil-essonne\" class=\"bouton-principal hvr-shutter-out-horizontal\">Lire la suite</a>\n      </div>\n    </div>\n  </div>\n    <div class=\"prestation\" id=\"service-32\">\n            <div class=\"cell photo cover\" style=\"background-image: url(/images/services/large/d4a0436630c363d68c661e6f2ffdecfc.webp)\"></div>\n    <div class=\"cell texte\">\n      <div class=\"contenu\">\n                <h2 class=\"h1\">Rachat d’épaves</h2>\n                       <p>Nous répondons également présents si vous souhaitez procéder à la revente de votre épave, que le véhicule soit dans cet état à cause d’un sinistre ou simplement de son âge avancé.</p>\n\t\t<a href=\"/nos-services/rachat-d-epaves-corbeil-essonne\" class=\"bouton-principal hvr-shutter-out-horizontal\">Lire la suite</a>\n      </div>\n    </div>\n  </div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": false,
+  "realisations": null,
+  "gmbImage": "/images/bandeau/medium/b794df4fb28c34330f026864e71a9d75.webp"
+ },
+ "footerForm": true
+}

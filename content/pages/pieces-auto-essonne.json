@@ -1,0 +1,44 @@
+{
+ "route": "/pieces-auto-essonne",
+ "source": "pieces-auto-essonne.html",
+ "title": "Pièces auto en Essonne | PIÈCES AUTO DULIN",
+ "description": "Vous êtes à la recherche de pièces auto en Essonne ? Avec PIÈCES AUTO DULIN vous avez le choix et en plus nous proposons des tarifs compétitifs !",
+ "ogImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "bodyClass": "body-pageseo body-pageseo-35",
+ "template": "pageseo",
+ "bannerImage": "/images/bandeau/f02621955de7593ee2a9d3cab1487b1c.webp",
+ "slogan": {
+  "titre": "Pièces auto Essonne",
+  "sousTitre": null
+ },
+ "activeMenu": null,
+ "corpsHtml": "<div class=\"pageseo clear node-35\">\n\t<div class=\"row\">\n\t\t<h1>Pièces auto en Essonne</h1>\n\t\t\t\t<p>Fournisseur de pièces détachées pour véhicules légers, notre garage <strong>PIÈCES AUTO DULIN</strong> a été fondé en 2002 <strong>en Essonne</strong>. Nous sommes professionnels de l’entretien de modèles de toutes marques,et proposons de nombreux services aux particuliers. À la fois spécialisés dans les véhicules et les <strong>pièces auto</strong>, nous faisons aussi office de casse.</p>\n<h2>Vous êtes à la recherche d’éléments mécaniques ou de carrosserie pour votre voiture <strong>en Essonne</strong> ? Alors nous vous invitons à venir à nos ateliers pour y trouver votre bonheur !</h2>\n<p>Nous vous proposons de nombreuses références permettant de remplacer la partie manquante ou endommagée de votre véhicule. Grâce à des arrivées régulières de voitures à désosser, vous pourrez très sûrement la dénicher à un prix des plus intéressants. Vous pourrez ainsi offrir une nouvelle jeunesse à votre <strong>automobile</strong> sans vous ruiner.</p>\n<h3>Faites nous part de vos besoins en appelant PIÈCES AUTO DULIN au {{TELEPHONE}}</h3>\n<p>Que votre voiture soit de marque française ou étrangère, vous avez toutes les chances de repartir de notre garage en ayant mis la main sur ce que vous recherchiez. Vous pourrez en plus bénéficier des conseils avisés des membres de notre équipe. Vous disposez également de toutes les prestations de nos garagistes qualifiés pour la révision de votre <strong>automobile en Essonne</strong>.</p>\n<h4>Votre prestataire de confiance au prix le plus juste</h4>\n<p>Notre centre automobile assure également la destruction de véhicule et le <a href=\"/rachat-d-epaves-seine-et-marne\" target=\"_blank\" rel=\"noopener\"><strong>rachat d’épaves</strong></a>.Venez nous rendre visite au <em>25 Avenue 8 Mai 1945 à CORBEIL ESSONNES (91100)</em>. Pour davantage de renseignements et une demande de devis, nous sommes aussi joignables au {{TELEPHONE}} et par le formulaire de contact en ligne ci-dessous.</p>\t</div><div data-photos=\"seo\"></div>\n\t<div class=\"row\" style=\"margin:30px 0 0 0\">\n\t\t<div class=\"contact\"><div class=\"formulaire\"><h2>Contactez-nous en 30 secondes</h2><div id=\"description-contact\"><p>Merci de bien vouloir remplir ce formulaire afin de nous faire part de vos demandes.</p></div><div data-contact-form=\"pageseo\"></div></div></div>\t</div>\n</div>",
+ "homePhotos": null,
+ "sections": {
+  "services": true,
+  "realisations": [
+   {
+    "title": "photo-6",
+    "large": "/images/gallery/large/b707ae51d853a41d92d3a59423815117.webp",
+    "medium": "/images/gallery/medium/b707ae51d853a41d92d3a59423815117.webp"
+   },
+   {
+    "title": "photo-5",
+    "large": "/images/gallery/large/9467d894331fc9876ea68c353a3577fc.webp",
+    "medium": "/images/gallery/medium/9467d894331fc9876ea68c353a3577fc.webp"
+   },
+   {
+    "title": "photo-4",
+    "large": "/images/gallery/large/78ce54df82e93d48bca32f31b680b9b4.webp",
+    "medium": "/images/gallery/medium/78ce54df82e93d48bca32f31b680b9b4.webp"
+   },
+   {
+    "title": "photo-3",
+    "large": "/images/gallery/large/c8e83776212bfb24f187e472b04144fa.webp",
+    "medium": "/images/gallery/medium/c8e83776212bfb24f187e472b04144fa.webp"
+   }
+  ],
+  "gmbImage": "/images/bandeau/medium/f02621955de7593ee2a9d3cab1487b1c.webp"
+ },
+ "footerForm": false
+}
